@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dam-heroes-p0516"
+    }
+  },
+  "defaultProject": "dam-heroes-p0516",
+  "cli": {
+    "analytics": "b2ad18b9-402a-4c3c-97e7-d97215ab91ed"
+  }
 }
